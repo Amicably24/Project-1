@@ -1,0 +1,1 @@
+This project will be useful to data analysts and data scientists in analysing both structured and unstructured data and using visualization tools and softwares to generate meaningful insights from the raw data.
